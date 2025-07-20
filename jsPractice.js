@@ -70,4 +70,5 @@ first(2)(3)(5)
  const Sentence = "  This is The eXample Of StrinG   "
  Sentence.toUpperCase().split(/\s+/).join(" ").trim()
  console.log(Sentence)
+alert("change")
 
