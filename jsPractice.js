@@ -73,3 +73,5 @@ first(2)(3)(5)
 alert("change")
 
 console.log("changed somethong")
+
+console.log("i have  made some changes")
