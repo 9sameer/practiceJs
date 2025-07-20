@@ -72,3 +72,4 @@ first(2)(3)(5)
  console.log(Sentence)
 alert("change")
 
+console.log("changed somethong")
